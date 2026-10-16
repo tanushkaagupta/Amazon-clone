@@ -92,11 +92,11 @@ Amazon web/
 ├── style.css        # Core styling and Flexbox rules
 │
 ├── logo 1.jpg       # Amazon logo asset
-├── blog 1.jpg       # Hero banner background
-├── blog 3.jpg       # Deals in PC's / Office furniture image
-├── blog 4.jpg       # Beauty steals image
-├── blog 5.jpg       # Toys under $25 image
-└── blog 11.jpg      # Personal care image
+├── 1.jpg            # Hero banner background
+├── 2.jpg            # Deals in PC's / Office furniture image
+├── 3.jpg            # Beauty steals image
+├── 4.jpg            # Toys under $25 image
+└── 5.jpg            # Personal care image
 ```
 
 ---
